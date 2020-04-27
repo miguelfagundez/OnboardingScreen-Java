@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OnboardingScreens</string>
+    <string name="one_time_register">Notes protected and available Online.</string>
+    <string name="notes_pictures">Share your notes with friends.</string>
+    <string name="notes_external_card">Left swipe to delete a note and undo option.</string>
+    <string name="title_onboarding">Secure your notes</string>
+    <string name="title_picture_onboarding">Shares your notes</string>
+    <string name="title_memory_onboarding">Easy delete your notes</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
